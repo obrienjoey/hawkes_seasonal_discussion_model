@@ -1,1 +1,1 @@
-# hawkes_seasonal_model
+# hawkes_seasonal_discussion_model
